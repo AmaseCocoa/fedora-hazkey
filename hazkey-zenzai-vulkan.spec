@@ -16,7 +16,7 @@ BuildRequires:  ninja-build
 BuildRequires:  gcc-c++
 BuildRequires:  vulkan-headers
 BuildRequires:  vulkan-loader-devel
-BuildRequires:  shaderc-devel
+BuildRequires:  libshaderc-devel
 
 Requires:       hazkey-server
 Requires:       vulkan-loader
