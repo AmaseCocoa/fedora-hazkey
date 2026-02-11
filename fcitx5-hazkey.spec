@@ -22,7 +22,7 @@ BuildRequires:  fcitx5-devel >= 5.0.4
 BuildRequires:  qt6-qtbase-devel >= 6.7
 BuildRequires:  protobuf-devel
 BuildRequires:  vulkan-headers
-BuildRequires:  shaderc-devel
+BuildRequires:  libshaderc-devel
 BuildRequires:  gettext
 BuildRequires:  findutils, sed
 
